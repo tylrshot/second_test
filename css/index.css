@@ -1,4 +1,25 @@
 html {
-  color: green;
+    color: black;
+    background: lightblue;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: lightcoral;
+    font-weight: 600;
+    font-size: 32;
+    margin-bottom: 2;
 }
 	
+p {
+    margin-top: 5;
+    margin-bottom: 5;
+    font-weight: 300;
+}
+
+button {
+    margin-top: 25;
+    font-size: 15;
+    background-color: beige;
+    font-weight: 300;
+}
